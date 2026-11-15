@@ -1,0 +1,13 @@
+# Raw uncleaned dataset (cleaned version is tracked)
+online_retail_II.csv
+
+# R session history and cache
+.Rhistory
+.RDataTmp
+
+# Jupyter / Kaggle checkpoints and bundles
+.ipynb_checkpoints/
+.complete/
+
+# macOS system files
+.DS_Store
